@@ -1,0 +1,20 @@
+*{
+    padding: 0px;margin:0px;box-sizing:border-box;
+}
+
+body{
+    padding: 5%;
+}
+header .logo{
+    float:left;
+    font-size: 20px
+}
+
+header .naviagation_tab{
+    float:right;
+
+}
+
+#banner{
+    width:100%;
+}
